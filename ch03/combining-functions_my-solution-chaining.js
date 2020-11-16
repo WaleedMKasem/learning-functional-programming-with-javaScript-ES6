@@ -6,7 +6,7 @@ const path = require('path')
 
 const employees = JSON.parse(fs.readFileSync(path.join(__dirname, '/data/employees.json')))
 
-
+// helper method
 const average = arr => arr.reduce((x, y) => x + y) / arr.length
 
 const developerSalaries = employees
