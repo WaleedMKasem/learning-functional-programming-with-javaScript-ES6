@@ -10,7 +10,7 @@ A lot of the material was already very familiar to me, and as such for the purpo
 
 I have very much gone off piste from the given material practicing and refactoring with more advanced functional techniques.
 
-These include incorporating recursion, monads, piping and currying into my solutions.
+These include incorporating ***recursion***, ***monads***, ***piping*** and ***currying*** into my solutions.
 
 I am really enjoying my learning path in to functional programming and there is some great material out there by the likes of *Brian Lonsdorf*, *Federico Kereki* and *Kyle Simpson* — to name a few.
 
