@@ -1,0 +1,15 @@
+{
+  "rules": {
+    "padded-blocks": 0,
+    "no-multiple-empty-lines": 0,
+    "no-trailing-spaces": 0,
+    "no-new": 0
+    // "immutable/no-mutation": 2
+  },
+  "globals": {
+    "fetch": true
+  },
+  "plugins": [
+    "immutable"
+  ]
+}
