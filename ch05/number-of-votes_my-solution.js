@@ -1,8 +1,8 @@
-// The following is somewhat inferior and less efficient to
+// The following is somewhat less efficient compared to
 // the lecturer's solution.
 
-// However having already seen the that I opted to get a bit
-// of recursive practice in and come up with a similar alternative.
+// Having already seen the course example I opted for a
+// recursive alternative.
 
 // import the votes data
 const fs = require('fs')
