@@ -1,4 +1,5 @@
-// A variation on the lecturers solution using chaining
+// A variation on the lecturers solution using
+// chaining and destructuring
 
 const fs = require('fs')
 const path = require('path')
