@@ -1,7 +1,7 @@
 // The following is somewhat less efficient compared to
 // the lecturer's reduce solution.
 
-// Having already seen the that example I opted to write
+// Having already seen that example I opted to write
 // a recursive alternative.
 
 // import the votes data
