@@ -1,8 +1,8 @@
 // The following is somewhat less efficient compared to
-// the lecturer's solution.
+// the lecturer's reduce solution.
 
-// Having already seen the course example I opted for a
-// recursive alternative.
+// Having already seen the that example I opted to write
+// a recursive alternative.
 
 // import the votes data
 const fs = require('fs')
