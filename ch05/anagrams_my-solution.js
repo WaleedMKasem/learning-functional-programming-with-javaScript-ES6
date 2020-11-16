@@ -1,7 +1,7 @@
 // My solution to the anagram challenge
 
 // Note I opted to use recursion as opposed to say 'reduce'
-// so that I could return early if a letter didn't match.
+// so that I could return early from the loop if a letter didn't match.
 // Rather than unneccessarily going on to check the full word.
 
 const words = require('an-array-of-english-words')
